@@ -1,0 +1,13 @@
+git init
+git branch -m branch name
+git add
+git commit -m "Message"
+// Git Log
+- git log
+- git log graph
+- git status
+
+git checkout
+git reset
+
+git alias 
