@@ -11,3 +11,10 @@ git checkout
 git reset
 
 git alias 
+
+.gitignore
+
+git diff 
+git diff "File.js"
+
+git checkout + el id del cambio

@@ -12,3 +12,7 @@ class Inventory {
 }
 
 const newDevice = new Devices('Macbook Pro', 900, 20)
+const newDevice1 = new Devices('Macbook Pro', 100, 10)
+
+
+const arr = [newDevice , newDevice1];
