@@ -39,3 +39,7 @@ git merge
 git stash
 eliminación de ramas
 git branch -d "branch name login"
+
+git push
+git fetch
+git clone
