@@ -34,3 +34,5 @@ git checkout tags/nombre del tag
 
 git branch
 git switch
+
+git merge
