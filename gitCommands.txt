@@ -2,19 +2,37 @@ git init
 git branch -m branch name
 git add
 git commit -m "Message"
-// Git Log
+// Consultar cambios
 - git log
 - git log graph
 - git status
 
 git checkout
 git reset
-
 git alias 
 
+// Ignorar archivos dentro del proyecto que estamos trabajando
 .gitignore
+
+// Revisar diferencias entre versiones
 
 git diff 
 git diff "File.js"
 
+// Regresar entre versiones
 git checkout + el id del cambio
+
+git reset-hard mas el id del commit 
+git reflog
+
+git tag
+git checkout tags/nombre del tag 
+
+
+
+
+
+git branch
+git switch
+
+git merge
